@@ -1,7 +1,7 @@
 # Привет, я Георгий — фронтенд-разработчик 👋
 
-Верстаю лендинги и сайты: чистый HTML/CSS/JS, адаптив, анимации, pixel-perfect по Figma.  
-Работаю с реальными проектами — без шаблонов, без конструкторов.
+Верстаю лендинги и сайты: чистый HTML/CSS/JS, адаптив, анимации, pixel-perfect по Figma.
+Тёмные живые интерфейсы, продуманные состояния, без шаблонов и конструкторов.
 
 ---
 
@@ -16,14 +16,28 @@
 
 ---
 
-### Проекты
+### Избранные проекты
 
-| Проект | Описание | Live |
+| Проект | Описание | Демо |
 |--------|----------|------|
-| [FilmGovernment](https://github.com/Georgy-ITech/filmgovernment) | Поиск фильмов через TMDB API | [▶ открыть](https://georgy-itech.github.io/filmgovernment/) |
-| [DoFit Landing](https://github.com/Georgy-ITech/dofit-landing) | Лендинг фитнес-клуба, SCSS, анимации | [▶ открыть](https://georgy-itech.github.io/dofit-landing/) |
-| [DesignShift](https://github.com/Georgy-ITech/designshift-landing) | Агентство дизайна, CSS, адаптив | [▶ открыть](https://georgy-itech.github.io/designshift-landing/) |
-| [Expense Tracker](https://github.com/Georgy-ITech/expense-tracker) | Трекер расходов, Vanilla JS | [▶ открыть](https://georgy-itech.github.io/expense-tracker/) |
+| [FilmGovernment](https://github.com/Georgy-ITech/filmgovernment) | Поиск фильмов через TMDB API — тренды, трейлеры, избранное, RU/EN | [▶ открыть](https://georgy-itech.github.io/filmgovernment/) |
+| [DesignShift](https://github.com/Georgy-ITech/designshift-landing) | Лендинг курса по веб-дизайну — тёмная тема, CSS-marquee, валидация формы | [▶ открыть](https://georgy-itech.github.io/designshift-landing/) |
+| [Expense Tracker](https://github.com/Georgy-ITech/expense-tracker) | Трекер расходов — glassmorphism UI, Vanilla JS, localStorage | [▶ открыть](https://georgy-itech.github.io/expense-tracker/) |
+| [DoFit Landing](https://github.com/Georgy-ITech/dofit-landing) | Лендинг фитнес-приложения — SCSS-архитектура, тема-toggle, анимации | [▶ открыть](https://georgy-itech.github.io/dofit-landing/) |
+| [UI Animation Showcase](https://github.com/Georgy-ITech/ui-animation-showcase) | 16 паттернов UI-анимаций — reveal, parallax, tilt, marquee, modal | [▶ открыть](https://georgy-itech.github.io/ui-animation-showcase/) |
+| [SaaS Analytics](https://github.com/Georgy-ITech/saas-analytics-landing) | Лендинг SaaS-аналитики — feature-grid, шаги, отзывы, анимации | [▶ открыть](https://georgy-itech.github.io/saas-analytics-landing/) |
+
+<details>
+<summary>Ещё работы</summary>
+
+| Проект | Описание | Демо |
+|--------|----------|------|
+| [Task Manager](https://github.com/Georgy-ITech/task-manager) | Менеджер задач — поиск, фильтры, приоритеты | [▶ открыть](https://georgy-itech.github.io/task-manager/) |
+| [E-commerce Homepage](https://github.com/Georgy-ITech/ecommerce-homepage-showcase) | Главная интернет-магазина — сетка товаров, add-to-cart | [▶ открыть](https://georgy-itech.github.io/ecommerce-homepage-showcase/) |
+| [Fitness Trainer](https://github.com/Georgy-ITech/fitness-trainer-landing) | Лендинг фитнес-тренера — before/after, FAQ, тарифы | [▶ открыть](https://georgy-itech.github.io/fitness-trainer-landing/) |
+| [Apartment Renovation](https://github.com/Georgy-ITech/appartment-recover) | Лендинг ремонта квартир — форма, parallax, scroll-reveal | [▶ открыть](https://georgy-itech.github.io/appartment-recover/) |
+
+</details>
 
 ---
 
