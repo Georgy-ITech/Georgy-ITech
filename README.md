@@ -20,18 +20,19 @@
 
 | Проект | Описание | Демо |
 |--------|----------|------|
+| [Nebula — Bento Landing](https://github.com/Georgy-ITech/bento-landing) | Флагман: тёмный премиум bento-лендинг — асимметричная сетка, cursor-spotlight, count-up, рисование графика, параллакс | [▶ открыть](https://georgy-itech.github.io/bento-landing/) |
 | [FilmGovernment](https://github.com/Georgy-ITech/filmgovernment) | Поиск фильмов через TMDB API — тренды, трейлеры, избранное, RU/EN | [▶ открыть](https://georgy-itech.github.io/filmgovernment/) |
 | [DesignShift](https://github.com/Georgy-ITech/designshift-landing) | Лендинг курса по веб-дизайну — тёмная тема, CSS-marquee, валидация формы | [▶ открыть](https://georgy-itech.github.io/designshift-landing/) |
 | [Expense Tracker](https://github.com/Georgy-ITech/expense-tracker) | Трекер расходов — glassmorphism UI, Vanilla JS, localStorage | [▶ открыть](https://georgy-itech.github.io/expense-tracker/) |
 | [DoFit Landing](https://github.com/Georgy-ITech/dofit-landing) | Лендинг фитнес-приложения — SCSS-архитектура, тема-toggle, анимации | [▶ открыть](https://georgy-itech.github.io/dofit-landing/) |
 | [UI Animation Showcase](https://github.com/Georgy-ITech/ui-animation-showcase) | 16 паттернов UI-анимаций — reveal, parallax, tilt, marquee, modal | [▶ открыть](https://georgy-itech.github.io/ui-animation-showcase/) |
-| [SaaS Analytics](https://github.com/Georgy-ITech/saas-analytics-landing) | Лендинг SaaS-аналитики — feature-grid, шаги, отзывы, анимации | [▶ открыть](https://georgy-itech.github.io/saas-analytics-landing/) |
 
 <details>
 <summary>Ещё работы</summary>
 
 | Проект | Описание | Демо |
 |--------|----------|------|
+| [SaaS Analytics](https://github.com/Georgy-ITech/saas-analytics-landing) | Лендинг SaaS-аналитики — feature-grid, шаги, отзывы, анимации | [▶ открыть](https://georgy-itech.github.io/saas-analytics-landing/) |
 | [Task Manager](https://github.com/Georgy-ITech/task-manager) | Менеджер задач — поиск, фильтры, приоритеты | [▶ открыть](https://georgy-itech.github.io/task-manager/) |
 | [E-commerce Homepage](https://github.com/Georgy-ITech/ecommerce-homepage-showcase) | Главная интернет-магазина — сетка товаров, add-to-cart | [▶ открыть](https://georgy-itech.github.io/ecommerce-homepage-showcase/) |
 | [Fitness Trainer](https://github.com/Georgy-ITech/fitness-trainer-landing) | Лендинг фитнес-тренера — before/after, FAQ, тарифы | [▶ открыть](https://georgy-itech.github.io/fitness-trainer-landing/) |
