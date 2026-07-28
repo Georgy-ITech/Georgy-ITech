@@ -12,6 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -23,18 +25,23 @@
 
 | Проект | Описание | Демо |
 |--------|----------|------|
+| [Sable — 3D-конфигуратор парфюма](https://github.com/Georgy-ITech/sable-landing) | React Three Fiber: флакон построен процедурно в коде, без готовых моделей — гранёное стекло, отражения, студийный свет. Три аромата, у каждого своя форма флакона и атмосфера сцены | [▶ открыть](https://georgy-itech.github.io/sable-landing/) |
+| [Nodal — edge-сеть](https://github.com/Georgy-ITech/nodal-landing) | Констелляция на сыром WebGL без библиотек: свои GLSL-шейдеры, курсор становится узлом сети, по связям бегут пакеты данных. Прелоадер — полёт сквозь звёзды | [▶ открыть](https://georgy-itech.github.io/nodal-landing/) |
+| [Aura — AI-платформа](https://github.com/Georgy-ITech/aura-landing) | Живой aurora-фон, реагирующий на курсор, и интерактивное демо продукта: поиск по документам команды с ответами и ссылками на источник | [▶ открыть](https://georgy-itech.github.io/aura-landing/) |
 | [КРЕМА — specialty coffee e-commerce](https://github.com/Georgy-ITech/krema-coffee) | React + TypeScript интернет-магазин: каталог, URL-фильтры, варианты товара, корзина, checkout и адаптивная архитектура | [▶ открыть](https://krema-coffee.vercel.app/) |
+| [Smilio — сайт стоматологии](https://github.com/Georgy-ITech/smilio-landing) | Многостраничный сайт под ключ: 4 страницы, форма записи с валидацией, кастомные UI-компоненты, карточки врачей и услуг | [▶ открыть](https://georgy-itech.github.io/smilio-landing/) |
 | [Nebula — Bento Landing](https://github.com/Georgy-ITech/bento-landing) | Тёмный премиальный bento-лендинг — асимметричная сетка, cursor-spotlight, count-up, график и параллакс | [▶ открыть](https://georgy-itech.github.io/bento-landing/) |
-| [FilmGovernment](https://github.com/Georgy-ITech/filmgovernment) | Поиск фильмов через TMDB API — тренды, трейлеры, избранное и RU/EN | [▶ открыть](https://georgy-itech.github.io/filmgovernment/) |
-| [DesignShift](https://github.com/Georgy-ITech/designshift-landing) | Лендинг курса по веб-дизайну — тёмная тема, CSS-marquee и валидация формы | [▶ открыть](https://georgy-itech.github.io/designshift-landing/) |
-| [DoFit Landing](https://github.com/Georgy-ITech/dofit-landing) | Лендинг фитнес-приложения — SCSS-архитектура, переключение темы и анимации | [▶ открыть](https://georgy-itech.github.io/dofit-landing/) |
-| [UI Animation Showcase](https://github.com/Georgy-ITech/ui-animation-showcase) | 16 паттернов UI-анимаций — reveal, parallax, tilt, marquee и modal | [▶ открыть](https://georgy-itech.github.io/ui-animation-showcase/) |
 
 <details>
 <summary>Ещё работы</summary>
 
 | Проект | Описание | Демо |
 |--------|----------|------|
+| [FilmGovernment](https://github.com/Georgy-ITech/filmgovernment) | Поиск фильмов через TMDB API — тренды, трейлеры, избранное и RU/EN | [▶ открыть](https://georgy-itech.github.io/filmgovernment/) |
+| [DesignShift](https://github.com/Georgy-ITech/designshift-landing) | Лендинг курса по веб-дизайну — тёмная тема, CSS-marquee и валидация формы | [▶ открыть](https://georgy-itech.github.io/designshift-landing/) |
+| [DoFit Landing](https://github.com/Georgy-ITech/dofit-landing) | Лендинг фитнес-приложения — SCSS-архитектура, переключение темы и анимации | [▶ открыть](https://georgy-itech.github.io/dofit-landing/) |
+| [UI Animation Showcase](https://github.com/Georgy-ITech/ui-animation-showcase) | 16 паттернов UI-анимаций — reveal, parallax, tilt, marquee и modal | [▶ открыть](https://georgy-itech.github.io/ui-animation-showcase/) |
+| [Expense Tracker](https://github.com/Georgy-ITech/expense-tracker) | Учёт расходов — категории, статистика и localStorage | [▶ открыть](https://georgy-itech.github.io/expense-tracker/) |
 | [SaaS Analytics](https://github.com/Georgy-ITech/saas-analytics-landing) | Лендинг SaaS-аналитики — feature-grid, шаги, отзывы и анимации | [▶ открыть](https://georgy-itech.github.io/saas-analytics-landing/) |
 | [Task Manager](https://github.com/Georgy-ITech/task-manager) | Менеджер задач — поиск, фильтры и приоритеты | [▶ открыть](https://georgy-itech.github.io/task-manager/) |
 | [E-commerce Homepage](https://github.com/Georgy-ITech/ecommerce-homepage-showcase) | Главная интернет-магазина — сетка товаров и add-to-cart | [▶ открыть](https://georgy-itech.github.io/ecommerce-homepage-showcase/) |
