@@ -25,6 +25,7 @@
 
 | Проект | Описание | Демо |
 |--------|----------|------|
+| **Доктор Габриель** — сайт врача-эндокринолога | Заказ клиента, работает на своём домене: Astro + GSAP/Lenis, параллакс-сцена первого экрана, видео-визитка, отзывы, заявка через WhatsApp. Под ключ — от съёмки до хостинга. Репозиторий закрытый | [▶ открыть](https://doctorgabriel.ru) |
 | [Sable — 3D-конфигуратор парфюма](https://github.com/Georgy-ITech/sable-landing) | React Three Fiber: флакон построен процедурно в коде, без готовых моделей — гранёное стекло, отражения, студийный свет. Три аромата, у каждого своя форма флакона и атмосфера сцены | [▶ открыть](https://georgy-itech.github.io/sable-landing/) |
 | [Nodal — edge-сеть](https://github.com/Georgy-ITech/nodal-landing) | Констелляция на сыром WebGL без библиотек: свои GLSL-шейдеры, курсор становится узлом сети, по связям бегут пакеты данных. Прелоадер — полёт сквозь звёзды | [▶ открыть](https://georgy-itech.github.io/nodal-landing/) |
 | [Aura — AI-платформа](https://github.com/Georgy-ITech/aura-landing) | Живой aurora-фон, реагирующий на курсор, и интерактивное демо продукта: поиск по документам команды с ответами и ссылками на источник | [▶ открыть](https://georgy-itech.github.io/aura-landing/) |
@@ -54,5 +55,5 @@
 
 ### Контакты
 
-- 🌐 Портфолио: [georgy-itech.github.io/site-portfolio](https://georgy-itech.github.io/site-portfolio/)
+- 🌐 Портфолио: [georgy-tech.ru](https://georgy-tech.ru/)
 - 💼 Kwork: [kwork.ru/user/georgy_tech](https://kwork.ru/user/georgy_tech)
