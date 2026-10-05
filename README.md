@@ -55,5 +55,5 @@
 
 ### Контакты
 
-- 🌐 Портфолио: [georgy-tech.ru](https://georgy-tech.ru/)
+- 🌐 Портфолио: [georgy-itech.github.io](https://georgy-itech.github.io/)
 - 💼 Kwork: [kwork.ru/user/georgy_tech](https://kwork.ru/user/georgy_tech)
