@@ -29,7 +29,7 @@
 | [Sable — 3D-конфигуратор парфюма](https://github.com/Georgy-ITech/sable-landing) | React Three Fiber: флакон построен процедурно в коде, без готовых моделей — гранёное стекло, отражения, студийный свет. Три аромата, у каждого своя форма флакона и атмосфера сцены | [▶ открыть](https://georgy-itech.github.io/sable-landing/) |
 | [Nodal — edge-сеть](https://github.com/Georgy-ITech/nodal-landing) | Констелляция на сыром WebGL без библиотек: свои GLSL-шейдеры, курсор становится узлом сети, по связям бегут пакеты данных. Прелоадер — полёт сквозь звёзды | [▶ открыть](https://georgy-itech.github.io/nodal-landing/) |
 | [Aura — AI-платформа](https://github.com/Georgy-ITech/aura-landing) | Живой aurora-фон, реагирующий на курсор, и интерактивное демо продукта: поиск по документам команды с ответами и ссылками на источник | [▶ открыть](https://georgy-itech.github.io/aura-landing/) |
-| [КРЕМА — specialty coffee e-commerce](https://github.com/Georgy-ITech/krema-coffee) | React + TypeScript интернет-магазин: каталог, URL-фильтры, варианты товара, корзина, checkout и адаптивная архитектура | [▶ открыть](https://krema-coffee.vercel.app/) |
+| [КРЕМА — specialty coffee e-commerce](https://github.com/Georgy-ITech/krema-coffee) | React + TypeScript интернет-магазин: каталог, URL-фильтры, варианты товара, корзина, checkout и адаптивная архитектура | [▶ открыть](https://georgy-itech.github.io/krema-coffee/) |
 | [Smilio — сайт стоматологии](https://github.com/Georgy-ITech/smilio-landing) | Многостраничный сайт под ключ: 4 страницы, форма записи с валидацией, кастомные UI-компоненты, карточки врачей и услуг | [▶ открыть](https://georgy-itech.github.io/smilio-landing/) |
 | [Nebula — Bento Landing](https://github.com/Georgy-ITech/bento-landing) | Тёмный премиальный bento-лендинг — асимметричная сетка, cursor-spotlight, count-up, график и параллакс | [▶ открыть](https://georgy-itech.github.io/bento-landing/) |
 
@@ -55,5 +55,5 @@
 
 ### Контакты
 
-- 🌐 Портфолио: [georgy-itech.github.io](https://georgy-itech.github.io/)
+- 🌐 Портфолио: [georgy-tech.ru](https://georgy-tech.ru/)
 - 💼 Kwork: [kwork.ru/user/georgy_tech](https://kwork.ru/user/georgy_tech)
